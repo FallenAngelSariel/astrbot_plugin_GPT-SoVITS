@@ -1,8 +1,8 @@
-# helloworld
+# GPT-SoVITS
 
-AstrBot 插件模板
+接入本地部署的tts, 目前已经可以成功搭好框架可以使用，后面会逐步增强可读性和简化使用过程。
 
-A template plugin for AstrBot plugin feature
+
 
 # 支持
 
